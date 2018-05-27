@@ -10,7 +10,7 @@
 #ifdef DLL_FILE
 #define DLL_API extern __declspec(dllexport)
 #else
-#define DLL_API exxtern __declspec(dllimport)
+#define DLL_API extern __declspec(dllimport)
 #endif
 
 void MessageOut(char outString[], char *caption);
