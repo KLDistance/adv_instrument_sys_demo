@@ -1,0 +1,6 @@
+Channel1: 
+Date: 2018/5/26  0:46:24
+
+Time: 1.0000000000 sec, Current: 1.0000000000 A
+Time: 1.0000000000 sec, Current: 1.0000000000 A
+Time: 1.0000000000 sec, Current: 1.0000000000 A
