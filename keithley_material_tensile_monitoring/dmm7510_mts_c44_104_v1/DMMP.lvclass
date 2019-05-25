@@ -20,6 +20,15 @@
 	<Item Name="DMMP.ctl" Type="Class Private Data" URL="DMMP.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="DMMP_GetBaselinePick.vi" Type="VI" URL="../DMMP_GetBaselinePick.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#?!!!!"1!B1"9!!A:.97ZV97Q%186U&lt;Q!.1G&amp;T:7RJ&lt;G5A5'FD;Q!E1(!!(A!!$AR%45V1,GRW9WRB=X-!!!N0&gt;82Q&gt;81A2%V.5!!%!!!!*%"Q!"Y!!!Y-2%V.5#ZM&gt;G.M98.T!!!+37ZQ&gt;81A2%V.5!!!+1$Q!!1!!!!"!!)!!Q)!!#A!!!E!!!!.!Q!!!!!!!!A!!!5!"!!!!!!"!!1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+	</Item>
 	<Item Name="DMMP_GetComments.vi" Type="VI" URL="../DMMP_GetComments.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#0!!!!"1!31$$`````#%.P&lt;7VF&lt;H2T!!!E1(!!(A!!$AR%45V1,GRW9WRB=X-!!!N0&gt;82Q&gt;81A2%V.5!!%!!!!*%"Q!"Y!!!Y-2%V.5#ZM&gt;G.M98.T!!!+37ZQ&gt;81A2%V.5!!!+1$Q!!1!!!!"!!)!!Q)!!#A!!!E!!!!.!Q!!!!!!!!A!!!5!"!!!!!!"!!1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

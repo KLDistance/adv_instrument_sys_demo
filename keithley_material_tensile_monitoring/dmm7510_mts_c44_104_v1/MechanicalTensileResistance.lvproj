@@ -12,8 +12,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DMM7510" Type="Folder">
 			<Item Name="DMM_Initialize.vi" Type="VI" URL="../DMM_Initialize.vi"/>
+			<Item Name="DMM_Main.vi" Type="VI" URL="../DMM_Main.vi"/>
 			<Item Name="DMM_Measurement.vi" Type="VI" URL="../DMM_Measurement.vi"/>
 			<Item Name="DMM_PickBaseline.vi" Type="VI" URL="../DMM_PickBaseline.vi"/>
+			<Item Name="DMM_Shutdown.vi" Type="VI" URL="../DMM_Shutdown.vi"/>
 			<Item Name="DMMP.lvclass" Type="LVClass" URL="../DMMP.lvclass"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
