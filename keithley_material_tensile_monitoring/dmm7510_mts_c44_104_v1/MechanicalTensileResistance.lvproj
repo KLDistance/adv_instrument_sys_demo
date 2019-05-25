@@ -12,11 +12,18 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DMM7510" Type="Folder">
 			<Item Name="DMM_Initialize.vi" Type="VI" URL="../DMM_Initialize.vi"/>
+			<Item Name="DMM_Measurement.vi" Type="VI" URL="../DMM_Measurement.vi"/>
+			<Item Name="DMM_PickBaseline.vi" Type="VI" URL="../DMM_PickBaseline.vi"/>
 			<Item Name="DMMP.lvclass" Type="LVClass" URL="../DMMP.lvclass"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 			</Item>
 		</Item>
